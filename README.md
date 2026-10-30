@@ -5,7 +5,7 @@
   **Cairo, Egypt 🇪🇬**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-hatem-032955221)
-  [![Mostaql](https://img.shields.io/badge/Mostaql-مستقل-238636?style=for-the-badge)](https://mostaql.com)
+  ](https://mostaql.com)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.hatem7658@gmail.com)
 
   <p align="center">
@@ -108,8 +108,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarhatem2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omarhatem2004&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=omarhatem2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omarhatem2004&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
