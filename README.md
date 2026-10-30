@@ -8,7 +8,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.hatem7658@gmail.com)
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=MEAN+Stack+Specialist+%40+NTI;Custom+Web+Apps+for+Small+Shops+%26+Retail;Documented+APIs+%2B+Postman+Collections;Agentic+AI+%26+Full-Stack+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+MEAN+Developer;NTI+MEAN+Stack+Graduate;Custom+Web+Apps+for+Small+Shops+%26+Retail;Documented+APIs+%2B+Postman+Collections" alt="Typing SVG" />
   </p>
 
 </div>
@@ -30,7 +30,7 @@
 ### 👨‍💻 Background & Education
 
 - 🎓 **B.Sc. in Computer Science (Software Engineering)** — AASTMT (Class of 2026).
-- 🚀 **Specialist Scholar** in the **MEAN Stack Track** at the **National Telecommunication Institute (NTI)**.
+- 🚀 Completed the intensive **MEAN Stack Track** training program at the **National Telecommunication Institute (NTI)**.
 - 🤖 **Graduation Project**: Built an **11-stage Agentic AI platform** synthesizing runnable FastAPI/React apps from natural language using local LLMs (Ollama, Qwen 2.5, Llama 3.1).
 
 ---
