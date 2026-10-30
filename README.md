@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi, I'm Omar Hatem 👋
-  ### Software Engineer | Full-Stack MEAN Developer
+  ### Web Developer | Building Web Apps for Small Businesses to Manage Products, Inventory & Orders | MEAN Stack
   **Cairo, Egypt 🇪🇬**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-hatem-032955221)
